@@ -1,1 +1,9 @@
+skriv = int(input("ja ellr nej"))
 
+nej = 2
+ja = 1
+
+if skriv == 1:
+    print(hej)
+else:
+    print(nej)
